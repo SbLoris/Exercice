@@ -1,0 +1,32 @@
+{
+    "menuItems": [
+      {
+        "component": "homeMenuItem",
+        "permission": true
+      },
+      {
+        "component": "page1MenuItem",
+        "permission": false
+      },
+      {
+        "component": "nbArticlesField",
+        "permission": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "component": "page4MenuItem",
+        "permission": true
+        
+      },
+      {
+        "component": "page5MenuItem",
+        "permission": false
+      },
+      {
+        "component": "nbArticlesLabel",
+        "permission": true
+      }
+    ]
+  }
+  
